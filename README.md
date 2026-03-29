@@ -14,4 +14,5 @@ APIs, arquitetura de sistemas e segurança — do servidor ao banco de dados.
 
 📍 Fortaleza, CE 🇧🇷
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-costa-ferreira-22a5a2160/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardoferreira096@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-costa-ferreira-22a5a2160/) 
+📧 **E-mail:** leonardoferreira096@gmail.com
